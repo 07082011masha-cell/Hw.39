@@ -1,0 +1,48 @@
+.container-lg:nth-child(1) {
+    padding-bottom: 25px;
+}
+
+.navbar-brand {
+    color: rgb(246, 120, 120);
+    font-family: "Oregano";
+    font-size: 25px;
+}
+
+.container-lg:nth-child(2) {
+    padding-bottom: 50px;
+}
+
+
+.desc-card1 {
+    color: dodgerblue;
+    font-weight: 700;
+}
+
+.container-lg:nth-child(3) {
+    padding-bottom: 25px;
+}
+
+.card-text {
+    font-family: "Asap";
+    color: rgb(42, 42, 42);
+}
+
+.container-lg:nth-child(4) {
+    display: flex;
+    justify-content: center;
+}
+
+.container-lg:nth-child(5) {
+    padding-bottom: 25px;
+}
+
+.container-lg:nth-child(6) {
+    padding-bottom: 25px;
+     display: flex;
+    justify-content: center;
+}
+
+.container-lg:nth-child(7) {
+    padding-bottom: 35px;
+    background-color: rgba(128, 128, 128, 0.41);
+}
